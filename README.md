@@ -1,6 +1,6 @@
 # Spotify Playlist Analysis
 
-## Introduction
+
 This project provides a Python-based analysis tool that interacts with the Spotify API to fetch and analyze music data. It allows users to understand music preferences through audio features and track popularity, aiding in the creation of tailored music recommendations.
 
 ## Features
